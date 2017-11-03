@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/majed/Desktop/HoneybeeFramework1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/majed/Desktop/HoneybeeFramework1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1ec9d128272aa5be08eec9505071292fe2bda43a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/majed/Desktop/HoneybeeFramework1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d00f8e7d36321dd2f24cac2a8c4154f098228581">
+        <dex dex="/Users/majed/Desktop/HoneybeeFramework1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6e1d3651234adb7820721dc107d4042d3b2aa0b1/classes.dex" />
+    </item>
+
+</items>

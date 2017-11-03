@@ -1,0 +1,4 @@
+#Thu Nov 02 21:03:18 AEDT 2017
+base.0=/Users/majed/Android_Projects/HoneybeeFramework1/app/build/intermediates/transforms/dexMerger/debug/1
+renamed.0=classes.dex
+file.0=/Users/majed/Android_Projects/HoneybeeFramework1/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex
