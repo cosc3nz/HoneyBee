@@ -1,2 +1,3 @@
 # Tester
-Commit Honey bee running as an Android studio
+Commit Honey bee running as an Android Studio Project
+
